@@ -1,2 +1,2 @@
 # demo-repo
-my first repository for learing git and github 
+my first repository for learing git and github.
